@@ -1,0 +1,8 @@
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\bin\Debug\App.config
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\bin\Debug\MyWindowsTaskSchedule.exe.config
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\bin\Debug\MyWindowsTaskSchedule.exe
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\bin\Debug\MyWindowsTaskSchedule.pdb
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\bin\Debug\Windows.TaskSchedule.Extends.dll
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\obj\Debug\MyWindowsTaskSchedule.csprojResolveAssemblyReference.cache
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\obj\Debug\MyWindowsTaskSchedule.exe
+F:\maiaimei\WindowsService\MyWindowsTaskSchedule\MyWindowsTaskSchedule\obj\Debug\MyWindowsTaskSchedule.pdb
